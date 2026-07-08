@@ -1,0 +1,74 @@
+# 🏥 Behavioral Health Treatment Prediction using Machine Learning
+
+## 📌 Overview
+
+This project focuses on predicting whether individuals are likely to seek mental health treatment based on demographic, behavioral, and workplace-related factors. The objective is to leverage machine learning techniques to identify significant predictors that support healthcare professionals and organizations in making data-driven decisions.
+
+---
+
+## 🎯 Objectives
+
+- Analyze behavioral health survey data.
+- Perform data cleaning and preprocessing.
+- Build predictive machine learning models.
+- Evaluate model performance using standard metrics.
+- Visualize insights using interactive dashboards.
+
+---
+
+## 📊 Dataset
+
+The project uses a publicly available behavioral health survey dataset containing demographic information, workplace conditions, family history, and mental health indicators.
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Tableau
+- Jupyter Notebook
+
+---
+
+## 📈 Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Dashboard Development
+
+---
+
+## 📚 Skills Demonstrated
+
+- Data Analytics
+- Machine Learning
+- Data Visualization
+- Business Intelligence
+- Predictive Modeling
+- SQL
+- Tableau
+
+---
+
+## 🚀 Future Enhancements
+
+- Hyperparameter optimization
+- Deployment using Streamlit
+- Interactive dashboard integration
+- Cloud deployment
+
+---
+
+## 👤 Author
+
+Likhith M
+Business Analytics Graduate
